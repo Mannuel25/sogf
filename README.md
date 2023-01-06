@@ -1,6 +1,6 @@
 ### Sogf API 
 
-##### With thjs API, you can :
+##### With this API, you can :
       - Upload and download messages 
       - Upload and download books
       
